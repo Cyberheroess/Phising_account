@@ -25,5 +25,5 @@ Untuk menginstal Flask, jalankan perintah berikut:
 ```bash
 pip install flask
 apt install git
-git clone https://github.com/Cyberheroess/Phising_account/tree/main
+git clone https://github.com/Cyberheroess/Phising_account.git
 python3 main.py
