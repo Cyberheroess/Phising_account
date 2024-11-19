@@ -1,6 +1,6 @@
 ![17319807452854642104356006641591](https://github.com/user-attachments/assets/0dd9b29c-e8c5-418c-bed1-3606d11da852)
 
-# Dokumentasi Script Phishing Sederhana: `main.py`
+# phising web💻`
 
 ## **Deskripsi**
 
